@@ -1,2 +1,2 @@
 # mysql
-Cases com <a src=https://pt.wikipedia.org/wiki/MySQL><b>Mysql</b></a>
+Cases com <a href=https://pt.wikipedia.org/wiki/MySQL><b>Mysql</b></a>
